@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Enterprise Integration - with loopback</title>
+      <title>Enterprise Integration solutions</title>
       <link>https://rhumbles.github.io/post/hello/</link>
       <pubDate>Thu, 24 Oct 2019 19:59:15 +0100</pubDate>
       
       <guid>https://rhumbles.github.io/post/hello/</guid>
-      <description>This is my first blog detailing an Enterprise Integration that utilises Loopback technology.</description>
+      <description>-&amp;gt; Utilising Loopback Objective  Demonstrate a versatile, seamless, secure and stable solution that will can allow the simple construction of new interface capabilit in the form of APIs whose objective is to provide multichannel Enterprise Integration between the external world and a corporation&amp;rsquo;s existing main core CRM platform
+ The following sections should convey the simplistic alternative approach to building an interface, where the need for expensive and cumbersome server hosted middleware can be dispensed with altogether.</description>
     </item>
     
   </channel>

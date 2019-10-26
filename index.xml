@@ -6,18 +6,28 @@
     <description>Recent content on Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Oct 2019 19:59:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 00:44:58 +0100</lastBuildDate>
     
 	<atom:link href="https://rhumbles.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Enterprise Integration - with loopback</title>
+      <title>About Page</title>
+      <link>https://rhumbles.github.io/about/</link>
+      <pubDate>Fri, 25 Oct 2019 00:44:58 +0100</pubDate>
+      
+      <guid>https://rhumbles.github.io/about/</guid>
+      <description>About me! (Under construction)</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Integration solutions</title>
       <link>https://rhumbles.github.io/post/hello/</link>
       <pubDate>Thu, 24 Oct 2019 19:59:15 +0100</pubDate>
       
       <guid>https://rhumbles.github.io/post/hello/</guid>
-      <description>This is my first blog detailing an Enterprise Integration that utilises Loopback technology.</description>
+      <description>-&amp;gt; Utilising Loopback Objective  Demonstrate a versatile, seamless, secure and stable solution that will can allow the simple construction of new interface capabilit in the form of APIs whose objective is to provide multichannel Enterprise Integration between the external world and a corporation&amp;rsquo;s existing main core CRM platform
+ The following sections should convey the simplistic alternative approach to building an interface, where the need for expensive and cumbersome server hosted middleware can be dispensed with altogether.</description>
     </item>
     
   </channel>
